@@ -1,0 +1,4 @@
+timestamp,tag,source,n_residues,mode,steps,lr,cutoff,chain,final_loss,rmsd,mirror_image,loss_png,recon_png
+2026-07-21T14:48:44,1UBQ_A_full_s500_lr0.05,1UBQ,76,full,500,0.05,,A,1.364348,2.5862,False,results/plots/loss_curve_1UBQ_A_full_s500_lr0.05.png,results/plots/reconstruction_1UBQ_A_full_s500_lr0.05.png
+2026-07-21T14:49:30,1UBQ_A_full_s5000_lr0.05,1UBQ,76,full,5000,0.05,,A,0.0,0.0,False,results/plots/loss_curve_1UBQ_A_full_s5000_lr0.05.png,results/plots/reconstruction_1UBQ_A_full_s5000_lr0.05.png
+2026-07-21T14:49:55,1UBQ_A_full_s3000_lr0.05,1UBQ,76,full,3000,0.05,,A,0.0,0.0,False,results/plots/loss_curve_1UBQ_A_full_s3000_lr0.05.png,results/plots/reconstruction_1UBQ_A_full_s3000_lr0.05.png
